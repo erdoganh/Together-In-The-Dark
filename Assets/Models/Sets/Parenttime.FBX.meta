@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: 2346c8c4985d21b4bba1a89dab10f9fa
+timeCreated: 1462089395
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: caves1
+    100002: caves2
+    100004: elevator
+    100006: elevator2
+    100008: elevator2 1
+    100010: elevator2_basamak
+    100012: f_buttontrigger
+    100014: f_colunm_big
+    100016: F_floor
+    100018: F_floor 1
+    100020: f_flooralt
+    100022: F_ground
+    100024: hamsterwheel
+    100026: hamsterwheel 1
+    100028: m_trim_1
+    100030: m_wall_small
+    100032: m_window_A
+    100034: mcolunm_small
+    100036: //RootNode
+    100038: tor_ch_a
+    100040: tor_ch_b
+    100042: tor_crystals
+    100044: tr_big_rock_1
+    100046: tr_door_metal
+    100048: tr_metaldoor
+    100050: tr_rubble_1
+    100052: tr_rubble_2
+    100054: tr_stonedoord
+    100056: tr_tahta
+    100058: tr_tahtiravelli
+    100060: tr_Triggerdoor_stone
+    100062: tr_wall_broken
+    100064: trstonedestek
+    100066: trstonedestek001
+    100068: trtahtar
+    100070: wheel
+    400000: caves1
+    400002: caves2
+    400004: elevator
+    400006: elevator2
+    400008: elevator2 1
+    400010: elevator2_basamak
+    400012: f_buttontrigger
+    400014: f_colunm_big
+    400016: F_floor
+    400018: F_floor 1
+    400020: f_flooralt
+    400022: F_ground
+    400024: hamsterwheel
+    400026: hamsterwheel 1
+    400028: m_trim_1
+    400030: m_wall_small
+    400032: m_window_A
+    400034: mcolunm_small
+    400036: //RootNode
+    400038: tor_ch_a
+    400040: tor_ch_b
+    400042: tor_crystals
+    400044: tr_big_rock_1
+    400046: tr_door_metal
+    400048: tr_metaldoor
+    400050: tr_rubble_1
+    400052: tr_rubble_2
+    400054: tr_stonedoord
+    400056: tr_tahta
+    400058: tr_tahtiravelli
+    400060: tr_Triggerdoor_stone
+    400062: tr_wall_broken
+    400064: trstonedestek
+    400066: trstonedestek001
+    400068: trtahtar
+    400070: wheel
+    2300000: caves1
+    2300002: caves2
+    2300004: elevator
+    2300006: elevator2 1
+    2300008: elevator2_basamak
+    2300010: f_buttontrigger
+    2300012: f_colunm_big
+    2300014: F_floor 1
+    2300016: f_flooralt
+    2300018: F_ground
+    2300020: hamsterwheel 1
+    2300022: m_trim_1
+    2300024: m_wall_small
+    2300026: m_window_A
+    2300028: mcolunm_small
+    2300030: tor_ch_a
+    2300032: tor_ch_b
+    2300034: tor_crystals
+    2300036: tr_big_rock_1
+    2300038: tr_door_metal
+    2300040: tr_rubble_1
+    2300042: tr_rubble_2
+    2300044: tr_tahta
+    2300046: tr_tahtiravelli
+    2300048: tr_Triggerdoor_stone
+    2300050: tr_wall_broken
+    2300052: trstonedestek
+    2300054: trstonedestek001
+    2300056: wheel
+    3300000: caves1
+    3300002: caves2
+    3300004: elevator
+    3300006: elevator2 1
+    3300008: elevator2_basamak
+    3300010: f_buttontrigger
+    3300012: f_colunm_big
+    3300014: F_floor 1
+    3300016: f_flooralt
+    3300018: F_ground
+    3300020: hamsterwheel 1
+    3300022: m_trim_1
+    3300024: m_wall_small
+    3300026: m_window_A
+    3300028: mcolunm_small
+    3300030: tor_ch_a
+    3300032: tor_ch_b
+    3300034: tor_crystals
+    3300036: tr_big_rock_1
+    3300038: tr_door_metal
+    3300040: tr_rubble_1
+    3300042: tr_rubble_2
+    3300044: tr_tahta
+    3300046: tr_tahtiravelli
+    3300048: tr_Triggerdoor_stone
+    3300050: tr_wall_broken
+    3300052: trstonedestek
+    3300054: trstonedestek001
+    3300056: wheel
+    4300000: m_window_A
+    4300002: elevator
+    4300004: m_trim_1
+    4300006: tor_ch_a
+    4300008: tor_ch_b
+    4300010: tr_big_rock_1
+    4300012: tr_wall_broken
+    4300014: tr_rubble_1
+    4300016: tr_rubble_2
+    4300018: mcolunm_small
+    4300020: caves1
+    4300022: tor_crystals
+    4300024: m_wall_small
+    4300026: caves2
+    4300028: trstonedestek001
+    4300030: tr_Triggerdoor_stone
+    4300032: tr_door_metal
+    4300034: trstonedestek
+    4300036: tr_tahta
+    4300038: tr_tahtiravelli
+    4300040: F_ground
+    4300042: f_buttontrigger
+    4300044: f_colunm_big
+    4300046: elevator2_basamak
+    4300048: elevator2
+    4300050: wheel
+    4300052: hamsterwheel
+    4300054: f_flooralt
+    4300056: F_floor
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

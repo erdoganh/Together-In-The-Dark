@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Together In The Dark.CSharp.Plugins", "Together In The Dark.CSharp.Plugins.csproj", "{FE884FBD-F6BB-22F2-8FA0-B5DA8ED6F1DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Together In The Dark.CSharp", "Together In The Dark.CSharp.csproj", "{AD79154E-0141-7394-3ACA-155DEECE8F27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Together In The Dark.CSharp.Editor.Plugins", "Together In The Dark.CSharp.Editor.Plugins.csproj", "{B0AEE81C-AE1B-8C89-7F64-95D3FDD3B5C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE884FBD-F6BB-22F2-8FA0-B5DA8ED6F1DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE884FBD-F6BB-22F2-8FA0-B5DA8ED6F1DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE884FBD-F6BB-22F2-8FA0-B5DA8ED6F1DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE884FBD-F6BB-22F2-8FA0-B5DA8ED6F1DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD79154E-0141-7394-3ACA-155DEECE8F27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD79154E-0141-7394-3ACA-155DEECE8F27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD79154E-0141-7394-3ACA-155DEECE8F27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD79154E-0141-7394-3ACA-155DEECE8F27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0AEE81C-AE1B-8C89-7F64-95D3FDD3B5C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0AEE81C-AE1B-8C89-7F64-95D3FDD3B5C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0AEE81C-AE1B-8C89-7F64-95D3FDD3B5C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0AEE81C-AE1B-8C89-7F64-95D3FDD3B5C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
